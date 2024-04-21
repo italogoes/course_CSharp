@@ -2,7 +2,7 @@
 
 namespace Course;
 
-class Program
+class EntradaDeDados
 {
     static void Main(string[] args)
     {
