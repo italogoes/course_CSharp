@@ -1,0 +1,15 @@
+/Users/mac/Projects/Course/Course/bin/Debug/net7.0/Course
+/Users/mac/Projects/Course/Course/bin/Debug/net7.0/Course.deps.json
+/Users/mac/Projects/Course/Course/bin/Debug/net7.0/Course.runtimeconfig.json
+/Users/mac/Projects/Course/Course/bin/Debug/net7.0/Course.dll
+/Users/mac/Projects/Course/Course/bin/Debug/net7.0/Course.pdb
+/Users/mac/Projects/Course/Course/obj/Debug/net7.0/Course.csproj.AssemblyReference.cache
+/Users/mac/Projects/Course/Course/obj/Debug/net7.0/Course.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Projects/Course/Course/obj/Debug/net7.0/Course.AssemblyInfoInputs.cache
+/Users/mac/Projects/Course/Course/obj/Debug/net7.0/Course.AssemblyInfo.cs
+/Users/mac/Projects/Course/Course/obj/Debug/net7.0/Course.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/Course/Course/obj/Debug/net7.0/Course.dll
+/Users/mac/Projects/Course/Course/obj/Debug/net7.0/refint/Course.dll
+/Users/mac/Projects/Course/Course/obj/Debug/net7.0/Course.pdb
+/Users/mac/Projects/Course/Course/obj/Debug/net7.0/Course.genruntimeconfig.cache
+/Users/mac/Projects/Course/Course/obj/Debug/net7.0/ref/Course.dll
