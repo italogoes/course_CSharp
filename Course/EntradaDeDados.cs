@@ -6,10 +6,15 @@ class EntradaDeDados
 {
     static void Main(string[] args)
     {
+        Funcoes f = new Funcoes();
+        OperadoresLogicos objeto = new OperadoresLogicos();
+        Console.WriteLine(objeto);
+
         Console.Write($"Entre com seu nome completo: ");
         string nome = Console.ReadLine();
 
         Console.Write($"Quantos quartos tem na sua casa? ");
+
         int qtdQuartos = int.Parse(Console.ReadLine());
 
         Console.Write($"Entre com o preço do produto: ");
